@@ -1,6 +1,6 @@
-# 👷 `worker-template` Hello World
+# 🚀 My first launch in Cloudflare Workers
 
-A template for kick starting a Cloudflare worker project.
+A simple Javascript code that respond `Hello worker!`
 
 [`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
 
