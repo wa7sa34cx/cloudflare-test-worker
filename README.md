@@ -1,4 +1,4 @@
-# 🚀 My first launch in Cloudflare Workers
+# 🚀 My first launch on Cloudflare Workers
 
 A simple Javascript code that respond `Hello worker!`
 
